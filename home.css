@@ -1,0 +1,39 @@
+.header{
+    padding: 0;
+}
+#nav{
+    margin-left: auto;
+}
+.tile{
+    font-size: 30px;
+    font-weight: 100;
+    margin-bottom: -15px;
+
+}
+.my_intro{
+    text-align: justify;
+}
+.text-bt {
+    flex: auto;
+    font-size: 15px;
+    width: 50%;
+}
+.img{
+    flex:0 0 auto;
+    width: 25%;
+    
+   
+}
+.img-thumbnail{
+    height: auto;
+    width: 650px;  
+}
+.img.a{
+    width: 100%;
+    height: auto;
+}
+
+
+.m-right{
+    margin-right: -24px;
+}
